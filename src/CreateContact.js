@@ -1,8 +1,9 @@
 import React, { Component } from "react";
+
 class CreateContact extends Component {
   state = {};
   render() {
-    return "Hello World";
+    return <div>Hello World</div>;
   }
 }
 
